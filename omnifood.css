@@ -122,10 +122,16 @@ body {
 .icon {
 	text-align: center;
 }
-
 /* ===== END SECTION 1 ======================== */
 
 /* ===== SECTION 2 ======================== */
+.section2 img {
+	background-color: rgba(0,0,0,0.6);
+}
+
+.un {
+	padding-left: 60px;
+}
 /* ===== END SECTION 2 ======================== */
 
 /* ===== SECTION 3 ======================== */
