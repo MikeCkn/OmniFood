@@ -1,24 +1,24 @@
 * {
 	/*border: 1px solid black;*/
 }
-/* ===== BODY ===== */
+/* ===== BODY ======================== */
 body {
 	margin: 0;
 	padding: 0;
 	font-family: Lato;
 
 }
-/* ===== END BODY ===== */
+/* ===== END BODY ======================== */
 
-/* ===== BACKGROUND ===== */
+/* ===== BACKGROUND ======================== */
 .backgroundcover {
 	background: url("Contents/background.jpg");
 	background-size: cover;
 	min-height: 805px;
 }
-/* ===== END BACKGROUND ===== */
+/* ===== END BACKGROUND ======================== */
 
-/* ===== HEADER ===== */
+/* ===== HEADER ======================== */
 #logoheader {
 	height: 100px;
 	padding: 0px 200px 0px 50px;
@@ -42,11 +42,11 @@ body {
 }
 
 .header a:hover {
-	border-bottom: 2px solid #8b111a;
+	border-bottom: 2px solid #c4293b;
 }
-/* ===== END HEADER =====*/
+/* ===== END HEADER ========================*/
 
-/* ===== SECTION 0 ===== */
+/* ===== SECTION 0 ======================== */
 .section0 {
 	margin: 250px 0px 0px 20px;
 }
@@ -77,50 +77,64 @@ body {
 
 .section0 a:hover {
 	border: 1px solid ;
-	background-color: rgba(139, 17, 26, 0.3);
+	background-color: rgba(196, 41, 59, 0.3);
 	transition: 0.4s;
 }
-/* ===== END SECTION 0 ===== */
+/* ===== END SECTION 0 ======================== */
 
-/* ===== SECTION 1 ===== */
+/* ===== SECTION 1 ======================== */
 .section1 {
-	height: 500px;
+	height: 650px;
 }
 
 .section1 h1 {
-	padding: 30px 0px 0px 0px;
+	padding: 30px 0px 10px 0px;
 	text-align: center;
 	font-weight: lighter;
-	font-size: 1.9em;
+	font-size: 2.0em;
 	color: #595959;
 }
 
 .section1 hr {
 	width: 20%;
-	border-color: #8b111a;
+	border-color: #c4293b;
 }
 
 .section1 h3 {
+	padding: 20px 0px 20px 0px; 
 	text-align: center;
 	font-weight: lighter;
+	font-size: 1.2em;
+}
+
+.section1 p {
+	text-align: center;
+	font-weight: lighter;
+	margin: auto;
+	width: 200px;
 }
 
 .icon-big {
 	font-size: 200%;
-	color: #8b111a;
+	color: #c4293b;
 }
-/* ===== END SECTION 1 ===== */
 
-/* ===== SECTION 2 ===== */
-/* ===== END SECTION 2 ===== */
+.icon {
+	text-align: center;
+}
 
-/* ===== SECTION 3 ===== */
-/* ===== END SECTION 3 ===== */
+/* ===== END SECTION 1 ======================== */
 
-/* ===== ENDSECTION 4 ===== */
-/* ===== END SECTION 4 ===== */
+/* ===== SECTION 2 ======================== */
+/* ===== END SECTION 2 ======================== */
 
-/* ===== SECTION 5 ===== */
-/* ===== END SECTION 5 ===== */
+/* ===== SECTION 3 ======================== */
+/* ===== END SECTION 3 ======================== */
+
+/* ===== ENDSECTION 4 ======================== */
+/* ===== END SECTION 4 ======================== */
+
+/* ===== SECTION 5 ======================== */
+/* ===== END SECTION 5 ======================== */
 
 
