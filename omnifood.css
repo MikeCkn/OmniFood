@@ -1,0 +1,74 @@
+* {
+	/*border: 1px solid white;*/
+}
+/* == BODY == */
+body {
+	font-family: Lato;
+	background: url("Contents/background.jpg") no-repeat;
+	background-size: cover;
+}
+/* == END BODY == */
+
+/* == HEADER == */
+#logoheader {
+	height: 100px;
+	padding: 0px 200px 0px 50px;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	height: 150px;
+}
+
+.header a {
+	color: white;
+	margin: 0px 23px 0px 23px;
+	padding-bottom: 5px;
+	text-decoration: none;
+	font-weight: lighter;
+	text-transform: uppercase;
+	font-size: 1.2em;
+	border-bottom: 2px solid rgba(0, 0, 0, 0);
+}
+
+.header a:hover {
+	border-bottom: 2px solid #8b111a;
+}
+/* == END HEADER == */
+
+/* == SECTION 0 == */
+.section0 {
+	margin: 250px 0px 0px 20px;
+}
+
+.section0 h1 {
+	color: #FFF;
+	font-weight: lighter;
+	font-size: 1.7em;
+}
+
+.boutons {
+	display: flex;
+}
+
+.section0 a {
+	color: #FFF;
+	padding: 10px;
+	margin-left: 15px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 0.8em;
+	font-weight: lighter;
+	border: 1px solid #FFF;
+	border-radius: 30px;
+}
+
+.section0 a:hover {
+	background-color: rgba(139, 17, 26, 0.3);
+	transition: 0.4s;
+
+}
+
+
+/* == END SECTION 0 == */
