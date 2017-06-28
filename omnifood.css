@@ -166,6 +166,7 @@ body {
 
 .section3 p {
 	font-weight: lighter;
+	padding-bottom: 10px;
 }
 
 .section3 img {
@@ -183,7 +184,7 @@ body {
 
 .text {
 	padding-left: 50px;
-	padding-top: 160px;
+	padding-top: 140px;
 }
 /* ===== END SECTION 3 ======================== */
 
