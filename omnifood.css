@@ -164,12 +164,26 @@ body {
 	font-size: 1.2em;
 }
 
+.section3 p {
+	font-weight: lighter;
+}
+
 .section3 img {
 	height: 500px;
 }
 
-.iphone {
+.section3-colonne {
+	padding-top: 50px;
+	padding-left: 400px;
+}
 
+#android, #apple {
+	height: 50px;
+}
+
+.text {
+	padding-left: 50px;
+	padding-top: 160px;
 }
 /* ===== END SECTION 3 ======================== */
 
